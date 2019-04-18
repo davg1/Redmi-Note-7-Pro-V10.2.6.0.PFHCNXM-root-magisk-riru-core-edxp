@@ -12,3 +12,6 @@
 4.继续刷入magisk-EdXposed-v0.3.1.7_beta-release.zip
 
 5.安装EdXposedInstaller_v2.2.4-release.apk
+
+打包下载地址
+https://github.com/davg1/Redmi-Note-7-Pro-V10.2.6.0.PFHCNXM-root-magisk-riru-core-edxp/releases
