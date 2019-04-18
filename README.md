@@ -1,5 +1,7 @@
 # Redmi-Note-7-Pro-V10.2.6.0.PFHCNXM-root-magisk-riru-core-edxp
 
+红米note7 pro  刷第三方recovery、 root、安装magisk、riru-core、edxp步骤
+
 具体步骤：
 1.重启进入recovery模式，刷入TWRP-3.2.3，重启进入TWRP
 
